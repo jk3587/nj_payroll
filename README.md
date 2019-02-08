@@ -8,4 +8,4 @@ You need a socrata api key and the entire dataset is roughly 400-500 MB.
 
 View ```python EDA.ipynb``` for some high level EDA and some plots.
 
-Updated: 2019-02-17 
+Updated: 2019-02-07
